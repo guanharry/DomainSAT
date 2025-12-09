@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/images/logo.png" alt="DomainSAT Logo" width="50" style="vertical-align:middle; margin-right:20px;">
-  <span style="font-size:30px; font-weight:700; vertical-align:middle;">
+  <img src="/images/logo.png" alt="DomainSAT Logo" width="60" style="vertical-align:middle; margin-right:10px;">
+  <span style="font-size:50px; font-weight:700; vertical-align:middle;">
     DomainSAT: Domain Shift Analysis Toolbox
   </span>
 </p>
