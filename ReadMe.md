@@ -110,7 +110,7 @@ DomainSAT will automatically detect the shared features and prepare the data for
 For convenience, several **sample datasets** are provided in the folder **`Exp Data`** for quick testing and validation.
 
 <p align="center">
-  <img src="images/data.png" width="320" height="350">
+  <img src="images/Data.png" width="320" height="350">
 </p>
 ---
 
