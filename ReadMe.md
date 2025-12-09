@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="/images/logo.png" alt="DomainSAT Logo" width="60" style="vertical-align:middle; margin-right:10px;">
-  <span style="font-size:50px; font-weight:700; vertical-align:middle;">
-    DomainSAT: Domain Shift Analysis Toolbox
-  </span>
+  <img src="images/WholeLogo.png" width="450">
 </p>
+
+
 <p align="center">
   <strong><em>
     A lightweight GUI Python toolbox for detecting, visualizing, and understanding data shift.
