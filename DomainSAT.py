@@ -35,7 +35,7 @@ from shift_utils import (
 # -------------------------------------------------------------------
 st.set_page_config(
     page_title="DomainSAT",   # what shows in the browser tab
-    page_icon="Logo.png",
+    page_icon="logo.png",
     layout="wide",            # optional, but nice for dashboards
 )
 
