@@ -178,4 +178,4 @@ DomainSAT (Domain Shift Analysis Toolbox) is an original work developed by the a
 
 Any reuse, redistribution, or derivative work **must** comply with the license terms, including **proper attribution, preservation of copyright notices, and inclusion of the original license**.
 
-Unauthorized copying of the **project name**, repository structure, **documentation**, or core design **without proper attribution or license compliance constitutes a violation of the license and may result in formal takedown actions**.
+Unauthorized copying of the **project name**, **repository structure**, **documentation**, or core design **without proper attribution or license compliance constitutes a violation of the license and may result in formal takedown actions**.
