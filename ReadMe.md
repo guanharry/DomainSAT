@@ -180,8 +180,8 @@ If you use this code, please cite:
   journal={arXiv preprint arXiv:2601.00716},
   year={2026}
 }
-
-
+```
+---
 ## Copyright and License
 
 © 2025 Hao Guan. All rights reserved.
