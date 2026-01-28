@@ -169,6 +169,18 @@ Note: UMAP typically takes longer time to compute, while PCA is much faster.
 </p>
 
 ---
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{guan2026detecting,
+  title={Detecting Performance Degradation under Data Shift in Pathology Vision-Language Model},
+  author={Guan, Hao and Zhou, Li},
+  journal={arXiv preprint arXiv:2601.00716},
+  year={2026}
+}
+
 
 ## Copyright and License
 
